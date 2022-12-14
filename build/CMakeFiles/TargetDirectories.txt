@@ -1,0 +1,3 @@
+C:/Users/Thoma/projects/CppND-Capstone-Camera-App/build/CMakeFiles/CameraApp.dir
+C:/Users/Thoma/projects/CppND-Capstone-Camera-App/build/CMakeFiles/edit_cache.dir
+C:/Users/Thoma/projects/CppND-Capstone-Camera-App/build/CMakeFiles/rebuild_cache.dir
